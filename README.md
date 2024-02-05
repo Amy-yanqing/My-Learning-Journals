@@ -11,14 +11,14 @@ I have decided to begin building my basic website. Whenever I encounter difficul
 I review that specific section with which I am not familiar. 
 I believe this approach will be more effective than going into too much detail at once.
 
-### Resource I used:
-1. CP1406 web development subject resource
+### Resources I used:
+1. CP1406 web development subject resources
 2. ChatGpt
 3. google research
 
 ## Estimated Hours
  4 hour to review and research the knowledge
- 5 hour to building the baisc website 
+ 5 hour to build the baisc website 
 
 ## Content Insights
 1. Choosing meaningful class names in HTML significantly enhances CSS file maintenance.
