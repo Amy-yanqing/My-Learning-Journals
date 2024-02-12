@@ -1,7 +1,8 @@
 # Week 02
 ## Learning Activities & Resources
 This week, I delved into the integration of Joomla CMS with online servers InfinityFree
-Resource: https://www.youtube.com/watch?v=oXB1D8J3yZs
+Resource: 
+https://www.youtube.com/watch?v=oXB1D8J3yZs
 
 I gained insights into designing websites using both Joomla and WordPress from the following study video:
 Joomla: https://www.youtube.com/watch?v=h5VZwTLdgdM
@@ -18,4 +19,9 @@ This not only streamlines the development process but also makes it easy to find
 without affecting other parts. It's way easier than searching through HTML code to make changes to the content—a very efficient way to work.
 
 ## Career/Employability/Learning Insights
-
+Drawing on my previous experience with HTML, I instinctively began associating HTML's structure with Joomla's modules.
+Faced with issues not addressed in learning videos, I approach problem-solving through logical thinking, 
+contemplating which part of the structure the problem might reside in. 
+I'm pleased with this progress, seeing it as an ongoing skill development in learning.
+I believe this ability for continual improvement is essential not only in my current studies
+but also in future professional endeavors.
