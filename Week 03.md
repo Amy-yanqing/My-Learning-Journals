@@ -7,7 +7,7 @@ How to build website use WordPress : https://www.youtube.com/watch?v=ll9UJgLX7kg
 WordPress Tutorial for Beginners: https://www.youtube.com/watch?v=UT3No6nswz8
 
 ### Estimated Hours
-12 Hours
+8 Hours
 
 ### Content Insights
 
@@ -21,3 +21,8 @@ In my learning journey, I've noticed that switching between Joomla and WordPress
 Comparing them repeatedly helps me understand both better. In the IT field, constant learning is key. 
 Summarizing experiences is crucial for students and remains essential in professional life.
 
+### Group Interviews --- Findings and Experience
+
+I crafted two interview questions focused on what employees prioritize when selecting team members. The first question asked, "What strengths make you the right fit for us?" The second inquired about handling conflicts within a team.
+
+Surprisingly, most team members asked questions aligned with employers seeking professionals with specific skills and strong teamwork abilities. When I had to answer these questions, I felt nervous. It underscored the importance of being well-prepared not just as an interviewer but also as an interviewee, ensuring effective communication of strengths and teamwork skills.
