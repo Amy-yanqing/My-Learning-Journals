@@ -17,9 +17,10 @@ While both are time-saving content management systems (CMS), my preference leans
 
 ### Career/Employability/Learning Insights
 
-In my learning journey, I've noticed that switching between Joomla and WordPress can be confusing. 
-Comparing them repeatedly helps me understand both better. In the IT field, constant learning is key. 
-Summarizing experiences is crucial for students and remains essential in professional life.
+In my learning journey, I've observed that transitioning between Joomla and WordPress can be perplexing. 
+Making repeated comparisons has enhanced my ability to comprehend both platforms. This process has improved my summarization and synthesis skills,
+which I believe are crucial for future work. In the field of IT, constant learning on top of core knowledge is essential, 
+as it requires adapting to and acquiring new skills.
 
 ### Group Interviews --- Findings and Experience
 
