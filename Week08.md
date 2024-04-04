@@ -19,5 +19,23 @@ This week's learning involved connecting knowledge from previous weeks, includin
 
 ## learning experiment Insights
 
+I conducted a learning experiment aimed at improving my focus and study efficiency. Following the scientific method, I formulated a hypothesis based on my observation that distractions from phone usage hinder my learning progress.
 
+Hypothesis: I hypothesized that implementing structured study periods, coupled with phone-free intervals before studying, would enhance my focus and learning efficiency.
+
+Experiment:
+
+Pre-Study Phone-Free Time: Before each study session, I refrained from using my phone for one hour.
+Structured Study Periods: I divided my study sessions into focused periods of 15, 25, and 45 minutes, followed by short breaks.
+Conscious Phone Usage Control: During study sessions, if I found myself unconsciously reaching for my phone, I immediately stopped and reminded myself of my goal to focus on studying.
+Test: I tracked my focus and study efficiency using a focus app. If I observed improved concentration and reduced mental fatigue during study sessions, my hypothesis would be supported.
+
+Results:
+
+I found that adhering to the structured study periods and phone-free intervals helped me enter a state of focus more quickly.
+Despite a couple of instances of unconscious phone usage, I promptly corrected my behavior and refocused on studying.
+Overall, I observed increased study efficiency and felt less mentally fatigued during study sessions.
+
+Learning Insights:
+This experiment taught me the importance of structured study periods and the impact of phone usage on focus. By consciously controlling distractions and adhering to a structured study routine, I was able to enhance my learning efficiency. Moving forward, I plan to continue implementing these strategies to improve my focus and study habits.
 
